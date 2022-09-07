@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: actions/checkout@v2
+
       - uses: Platane/snk@master
         id: snake-gif
         
