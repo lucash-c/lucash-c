@@ -16,5 +16,5 @@
 </div>
 
 <div> 
-   ![snake gif](https://github.com/lucash-c/lucash-c/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/lucash-c/lucash-c/blob/output/github-contribution-grid-snake.svg)
 </div>
