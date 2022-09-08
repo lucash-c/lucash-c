@@ -1,4 +1,4 @@
-## Olá! eu sou o Lucas 
+## Olá! eu sou o Lucas, desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/lucash-c">
