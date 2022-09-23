@@ -17,4 +17,6 @@
 
 
    ![snake gif](https://github.com/lucash-c/lucash-c/blob/output/github-contribution-grid-snake.svg)
-
+  <br>
+  <a href="https://www.linkedin.com/in/lucas-henrique-de-campos-9763a7142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucash_campos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
